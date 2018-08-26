@@ -1,0 +1,4 @@
+python, pip
+libraries: nltk (pip install nltk)
+
+** it uses vader sentiment analysis that is inbuilt in nltk library **
